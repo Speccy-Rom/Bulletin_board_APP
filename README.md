@@ -26,4 +26,4 @@
 -- python manage.py createsuperuser
 
 
-## Проект находится в разработке. 
+
